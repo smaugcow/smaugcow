@@ -15,6 +15,6 @@ The most crucial aspect of development that aids in enhancing my skills is the c
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=F29111)
 
-## Follow Me
+### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#2AABEE)](https://t.me/su6tle_in9iff)
