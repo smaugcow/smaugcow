@@ -1,8 +1,8 @@
 [![Header](https://github.com/Smaug-DS/Smaug-DS/blob/main/assets/smaug.jpg)](https://veresov.pro/cmustdie/)
 
-## Backend Developer
+### Backend Developer
 
-## About me
+### About me
 The most crucial aspect of development that aids in enhancing my skills is the comprehension of fundamentals and the ability to ask well-formulated questions. The seemingly simplest question can potentially save a production and should not be underestimated.
 
 ### Languages and Tools
@@ -15,4 +15,4 @@ The most crucial aspect of development that aids in enhancing my skills is the c
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=F29111)
 
-Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#2AABEE)](https://t.me/su6tle_in9iff)
