@@ -1,4 +1,4 @@
-[![Header](https://github.com/Smaug-DS/Smaug-DS/blob/main/assets/smaug.jpg)](https://veresov.pro/cmustdie/)
+<a href="https://veresov.pro/cmustdie/"><img src="https://github.com/Smaug-DS/Smaug-DS/blob/main/assets/smaug.jpg" width="940" height="537"></a>
 
 ### Backend Developer
 
