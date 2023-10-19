@@ -1,12 +1,11 @@
-<div style="text-align: center;">
-  <a href="https://veresov.pro/cmustdie/"><img src="https://github.com/Smaug-DS/Smaug-DS/blob/main/assets/smaug.jpg" width="672" height="384"></a>
-</div>
+<a href="https://veresov.pro/cmustdie/" style="text-align: center;"><img src="https://github.com/Smaug-DS/Smaug-DS/blob/main/assets/smaug.jpg" width="672" height="384"></a>
 
 
 ### Backend Developer
 
 ### About Me
-The most crucial aspect of development that aids in enhancing my skills is the comprehension of fundamentals and the ability to ask well-formulated questions. The seemingly simplest question can potentially save a production and should not be underestimated.
+<p style="text-align: justify;">The most crucial aspect of development that aids in enhancing my skills is the comprehension of fundamentals and the ability to ask well-formulated questions. The seemingly simplest question can potentially save a production and should not be underestimated.</p>
+
 
 ### Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
