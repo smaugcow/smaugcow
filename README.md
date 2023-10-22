@@ -1,6 +1,4 @@
-<a href="https://veresov.pro/cmustdie/">
-  <img src="https://github.com/Smaug-DS/Smaug-DS/blob/main/assets/smaug.jpg" width="672" height="384">
-</a>
+[![Header](https://github.com/Smaug-DS/Smaug-DS/blob/main/assets/smaug_logo.jpg)](https://veresov.pro/cmustdie/)
 
 
 ### Backend Developer
